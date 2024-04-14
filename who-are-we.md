@@ -1,32 +1,32 @@
-# What is the OFN in brief?
+# 한 마디로 OFN이란?
 
-Open Food Network \(OFN\) is a collaborative global network of local non-for-profit organisations who codevelop open source software and knowledge, and make it available to food hubs worldwide through localized online platforms \(like [Open Food Network UK](https://openfoodnetwork.org.uk/), [Open Food Network Australia](http://openfoodnetwork.org.au/), [Open Food France](http://openfoodfrance.org/), [Katuma](http://katuma.org/) , [Open Food Network Canada](https://openfoodnetwork.ca/), etc.\) and communities. 
+Open Food Network(이하 OFN)는 오픈 소스 소프트웨어와 지식을 공동으로 발전시키는 지역별 비영리 단체들이 협력하는 글로벌 네트워크입니다. 지역별 온라인 플랫폼([Open Food Network UK](https://openfoodnetwork.org.uk/), [Open Food Network Australia](http://openfoodnetwork.org.au/), [Open Food France](http://openfoodfrance.org/), [Katuma](http://katuma.org/) , [Open Food Network Canada](https://openfoodnetwork.ca/) 등)과 커뮤니티를 통해 범 지구적 식품 허브에 접근하게 합니다.
 
-The mission of this community is to build shared digital infrastructure and shared knowledge to enable short food chain operators to manage their activities, cooperate more efficiently, and build food sovereignty. Just as consumers and producers come together to create food hubs, in OFN food hubs come together to create digital infrastructure and share the use of it. We could talk about "Community Supported Software" and "Community Supported Knowledge".
+이 커뮤니티의 미션은 디지털 인프라와 지식을 구축 및 공유하여 식품 생산자에서 소비자까지 유통 단계를 짧게합니다. 그리고 단계별 참여자들이 그들의 활동을 관리하고 더 효율적으로 협력하며 식량 자주권을 갖게합니다. 소비자와 생산자가 식품 허브를 만들기 위해 모이는 것처럼, OFN에서는 식품 허브들이 모여 디지털 인프라를 만들고 인프라를 활용하는 방식을 공유합니다. "커뮤니티 기반 소프트웨어"나 "커뮤니티 기반 지식"을 떠올려 볼 수 있습니다.
 
-## The OFN products
+## OFN 제품
 
-### The OFN software
+### OFN 소프트웨어
 
-In practice, the software and platforms deployed with this software enable producers to manage their product catalogue and share them with multiple distributors \(food hubs\). Hubs can connect with one or multiple producers to list their products in a shop and organize collective sales, and get aggregated data to organize logistics and fulfil bulk or individual orders.
+실제로 이 소프트웨어 플랫폼은 식품 생산자가 제품 카탈로그를 관리하고 이를 여러 유통업체(식품 허브)들과 공유할 수 있게 합니다. 허브는 하나 이상의 생산자와 연결하여 상점에 제품을 등록하고 공동판매를 조직할 수 있습니다. 또한 집계 데이터로 물류를 조직하고 대량 및 개별 주문을 처리할 수 있습니다.
 
-In OFN, a hub can be many different things, including:  
-- a producer selling directly to consumers through an online shop  
-- a CSA or buying group organizing regular collective purchases, which can be subscription-based, and can handle multiple sub-purchase groups  
-- an entrepreneur sourcing food from local/organic producers and organizing sales to individuals, groups, restaurants, retailers
+OFN에서 말하는 허브는 다음과 같은 다양한 형태가 있습니다.
+- 온라인 상점을 통해 소비자에게 직접 판매하는 생산자
+- 구독 기반으로 여러 하위 구매 그룹들을 모아 정기적인 공동구매를 조직하는 지역 지원 농업 또는 구매 그룹
+- 지역/유기농 생산자로부터 식료품을 조달하여 개인, 단체, 레스토랑, 소매점에 대한 판매를 조직하는 기업가
 
-### Sector development products
+### 섹터 개발 관련 제품
 
-The OFN community is in contact everyday with lots of food hubs, organized around diverse operational, economics, and logistics models. And food hubs need more than just a software tool to be efficient, and replicate. So we are building various products to support the development of the local and regenerative food sector: 
+OFN 커뮤니티는 다양한 운영, 경제, 물류 모델들로 구성된 많은 식품 허브들과 매일 연락하고 있습니다. 하지만 식품 허브가 효율적으로 운영되고 성공 사례를 재현하기 위해서는 단순한 소프트웨어 툴을 넘어선 무언가가 필요합니다. 이를 위해 우리는 다양한 제품들을 개발하여 재생 가능한 지역별 식품 섹터 발전을 지원합니다:
 
-* articles, reports and other deliverables from research programs and food system analysis
-* training material
-* marketing tools and guidelines
-* support materials and guidelines for existing food hubs and social entrepreneurs
+* 아티클, 리포트, 기타 리서치나 식품 시스템 분석 결과물들
+* 교육 자료
+* 마케팅 툴과 가이드라인
+* 운영중인 식품 허브 및 사회적 기업가들에 대한 지원 자료 및 가이드라인들
 
-## The OFN services
+## OFN 서비스
 
-All those products are open source, but as a community, we propose services around those various products, through local democratically run multi-stakeholders cooperatives and collectives \(the local OFN entities\): Saas services based on the OFN software, consulting and trainings based on the sector development products, etc. This is the basis of our economic and governance models. :-\)
+이 모든 제품들은 오픈 소스입니만, OFN 커뮤니티는 지역마다 민주적으로 운영하는 다자 간 협동조합과 단체(지역별 OFN 단체)를 통해 다양한 OFN 제품들을 아우르는 서비스를 제안합니다: OFN 소프트웨어 기반 SaaS 서비스, 섹터 개발 제품을 활용한 컨설팅 및 교육 등. 이것이 우리의 경제적 모델과 의사결정 모델의 기반이 됩니다. :-\)
 
 
 
